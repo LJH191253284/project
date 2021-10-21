@@ -1,0 +1,2478 @@
+{
+  "code": 100000,
+  "data": {
+    "errno": 0,
+    "msg": "",
+    "data": {
+      "getErShouFangList": {
+        "totalCount": 83158,
+        "returnCount": 30,
+        "fbQueryId": "487651560827453450",
+        "curPage": 1,
+        "hasMoreData": 1,
+        "spellCheck": null,
+        "aladinCard": null,
+        "adxParams": null,
+        "noResultLiuzi": null,
+        "noResultReason": 0,
+        "lessResultReason": 0,
+        "bangdan": null,
+        "guideCard": [
+          
+        ],
+        "list": [
+          {
+            "cardType": "CARD_TYPE_ERSHOUFANG_LIST",
+            "cityId": "440100",
+            "houseCode": "108402494784",
+            "delegateId": "108402494784",
+            "resblockId": 2110343238861226,
+            "title": "逸彩庭园  户型方正  满五唯一  免重税 实用",
+            "desc": "2室1厅/74m²/南/新世界逸彩庭园",
+            "bangdanTitle": "2室1厅/74m²/新世界逸彩庭园",
+            "recoDesc": "荔湾 滘口/低楼层 共20层/南",
+            "totalPrice": "298万",
+            "unitPrice": "40,271元/平",
+            "jumpUrl": "https://m.lianjia.com/gz/ershoufang/108402494784.html?fb_expo_id=487651561158803456",
+            "listPictureUrl": "https://image1.ljcdn.com/110000-inspection/pc1_jNA0TXUOp_1.jpg.210x164.jpg",
+            "recommendReason": null,
+            "houseStatus": 1,
+            "isCtypeHouse": false,
+            "fbExpoId": "487651561158803456",
+            "statusSwitch": {
+              "isYeZhuTuijian": true,
+              "isHaofang": false,
+              "isYezhuPay": true,
+              "isVr": true,
+              "isKey": false,
+              "isNew": false
+            },
+            "brandTags": {
+              "title": "好赞好房",
+              "picUrl": "https://img.ljcdn.com/beike/bikanhaofang/1581996690584.png"
+            },
+            "hotTop": {
+              "dspAgentUcId": "",
+              "hotTopDigV": "",
+              "hotTop": 0
+            },
+            "isSellPrice": 2,
+            "priceListingGovCn": 0,
+            "unitPriceGov": 0,
+            "totalPriceInfo": {
+              "prefix": "",
+              "title": "298",
+              "suffix": "万"
+            },
+            "unitPriceInfo": {
+              "prefix": "",
+              "title": "40,271",
+              "suffix": "元/平"
+            },
+            "colorTags": [
+              {
+                "key": "isVr",
+                "title": "VR房源",
+                "color": "648EF9",
+                "textColor": "rgb(100,142,249)",
+                "bgColor": "rgba(100,142,249,0.15)"
+              },
+              {
+                "key": "five",
+                "title": "满五年",
+                "color": "F2A12F",
+                "textColor": "rgb(242,161,47)",
+                "bgColor": "rgba(242,161,47,0.15)"
+              },
+              {
+                "key": "elevator",
+                "title": "有电梯",
+                "color": "7BBDFF",
+                "textColor": "rgb(123,189,255)",
+                "bgColor": "rgba(123,189,255,0.15)"
+              }
+            ],
+            "marketBooth": [
+              
+            ],
+            "poiDistance": "",
+            "poiIcon": ""
+          },
+          {
+            "cardType": "CARD_TYPE_ERSHOUFANG_LIST",
+            "cityId": "440100",
+            "houseCode": "108402049872",
+            "delegateId": "108402049872",
+            "resblockId": 2110343238861226,
+            "title": "逸彩庭园 5号线滘口  朝向采光好 安静看花园  免重税",
+            "desc": "2室1厅/62.76m²/东 东南/新世界逸彩庭园",
+            "bangdanTitle": "2室1厅/62.76m²/新世界逸彩庭园",
+            "recoDesc": "荔湾 滘口/中楼层 共7层/东 东南",
+            "totalPrice": "275万",
+            "unitPrice": "43,818元/平",
+            "jumpUrl": "https://m.lianjia.com/gz/ershoufang/108402049872.html?fb_expo_id=487651561158803457",
+            "listPictureUrl": "https://image1.ljcdn.com/110000-inspection/pc1_MieceUYUn_1.jpg.210x164.jpg",
+            "recommendReason": null,
+            "houseStatus": 1,
+            "isCtypeHouse": false,
+            "fbExpoId": "487651561158803457",
+            "statusSwitch": {
+              "isYeZhuTuijian": true,
+              "isHaofang": true,
+              "isYezhuPay": false,
+              "isVr": true,
+              "isKey": false,
+              "isNew": false
+            },
+            "brandTags": {
+              "title": "必看好房",
+              "picUrl": "https://img.ljcdn.com/beike/haofanglogo/1571901104492.png"
+            },
+            "hotTop": {
+              "dspAgentUcId": "",
+              "hotTopDigV": "",
+              "hotTop": 0
+            },
+            "isSellPrice": 2,
+            "priceListingGovCn": 0,
+            "unitPriceGov": 0,
+            "totalPriceInfo": {
+              "prefix": "",
+              "title": "275",
+              "suffix": "万"
+            },
+            "unitPriceInfo": {
+              "prefix": "",
+              "title": "43,818",
+              "suffix": "元/平"
+            },
+            "colorTags": [
+              {
+                "key": "isVr",
+                "title": "VR房源",
+                "color": "648EF9",
+                "textColor": "rgb(100,142,249)",
+                "bgColor": "rgba(100,142,249,0.15)"
+              },
+              {
+                "key": "two",
+                "title": "满两年",
+                "color": "F2A12F",
+                "textColor": "rgb(242,161,47)",
+                "bgColor": "rgba(242,161,47,0.15)"
+              }
+            ],
+            "marketBooth": {
+              "type": "bangdan",
+              "title": "滘口热搜房源榜第3名",
+              "iconUrl": "https://img.ljcdn.com/beike/bangdan/1565234456984.png",
+              "textColor": "#222222",
+              "bgColor": "#FFFFFF"
+            },
+            "poiDistance": "",
+            "poiIcon": ""
+          },
+          {
+            "cardType": "CARD_TYPE_ERSHOUFANG_LIST",
+            "cityId": "440100",
+            "houseCode": "108402388628",
+            "delegateId": "108402388628",
+            "resblockId": 2110343238861226,
+            "title": "地铁五号线，厅出阳台，通风采光好，东南向两房",
+            "desc": "2室1厅/62.76m²/东南 南/新世界逸彩庭园",
+            "bangdanTitle": "2室1厅/62.76m²/新世界逸彩庭园",
+            "recoDesc": "荔湾 滘口/中楼层 共7层/东南 南",
+            "totalPrice": "283万",
+            "unitPrice": "45,093元/平",
+            "jumpUrl": "https://m.lianjia.com/gz/ershoufang/108402388628.html?fb_expo_id=487651561158803458",
+            "listPictureUrl": "https://image1.ljcdn.com/110000-inspection/pc1_slbl0raFx_1.jpg.210x164.jpg",
+            "recommendReason": null,
+            "houseStatus": 1,
+            "isCtypeHouse": false,
+            "fbExpoId": "487651561158803458",
+            "statusSwitch": {
+              "isYeZhuTuijian": false,
+              "isHaofang": true,
+              "isYezhuPay": false,
+              "isVr": true,
+              "isKey": false,
+              "isNew": false
+            },
+            "brandTags": {
+              "title": "必看好房",
+              "picUrl": "https://img.ljcdn.com/beike/haofanglogo/1571901104492.png"
+            },
+            "hotTop": {
+              "dspAgentUcId": "",
+              "hotTopDigV": "",
+              "hotTop": 0
+            },
+            "isSellPrice": 2,
+            "priceListingGovCn": 0,
+            "unitPriceGov": 0,
+            "totalPriceInfo": {
+              "prefix": "",
+              "title": "283",
+              "suffix": "万"
+            },
+            "unitPriceInfo": {
+              "prefix": "",
+              "title": "45,093",
+              "suffix": "元/平"
+            },
+            "colorTags": [
+              {
+                "key": "subwayHouse",
+                "title": "地铁",
+                "color": "59ABFD",
+                "textColor": "rgb(89,171,253)",
+                "bgColor": "rgba(89,171,253,0.15)"
+              },
+              {
+                "key": "isVr",
+                "title": "VR房源",
+                "color": "648EF9",
+                "textColor": "rgb(100,142,249)",
+                "bgColor": "rgba(100,142,249,0.15)"
+              },
+              {
+                "key": "five",
+                "title": "满五年",
+                "color": "F2A12F",
+                "textColor": "rgb(242,161,47)",
+                "bgColor": "rgba(242,161,47,0.15)"
+              }
+            ],
+            "marketBooth": [
+              
+            ],
+            "poiDistance": "",
+            "poiIcon": ""
+          },
+          {
+            "cardType": "CARD_TYPE_ERSHOUFANG_LIST",
+            "cityId": "440100",
+            "houseCode": "108401329482",
+            "delegateId": "108401329482",
+            "resblockId": 2111103317550,
+            "title": "*和苑 原装电梯  北向大两房",
+            "desc": "2室1厅/77.5m²/北/万和苑",
+            "bangdanTitle": "2室1厅/77.5m²/万和苑",
+            "recoDesc": "荔湾 滘口/高楼层 共12层/北",
+            "totalPrice": "258万",
+            "unitPrice": "33,291元/平",
+            "jumpUrl": "https://m.lianjia.com/gz/ershoufang/108401329482.html?fb_expo_id=487651561158803459",
+            "listPictureUrl": "https://image1.ljcdn.com/110000-inspection/pc1_VQwMh7IsC_1.jpg.210x164.jpg",
+            "recommendReason": null,
+            "houseStatus": 1,
+            "isCtypeHouse": false,
+            "fbExpoId": "487651561158803459",
+            "statusSwitch": {
+              "isYeZhuTuijian": false,
+              "isHaofang": true,
+              "isYezhuPay": false,
+              "isVr": true,
+              "isKey": false,
+              "isNew": false
+            },
+            "brandTags": {
+              "title": "必看好房",
+              "picUrl": "https://img.ljcdn.com/beike/haofanglogo/1571901104492.png"
+            },
+            "hotTop": {
+              "dspAgentUcId": "",
+              "hotTopDigV": "",
+              "hotTop": 0
+            },
+            "isSellPrice": 2,
+            "priceListingGovCn": 0,
+            "unitPriceGov": 0,
+            "totalPriceInfo": {
+              "prefix": "",
+              "title": "258",
+              "suffix": "万"
+            },
+            "unitPriceInfo": {
+              "prefix": "",
+              "title": "33,291",
+              "suffix": "元/平"
+            },
+            "colorTags": [
+              {
+                "key": "isVr",
+                "title": "VR房源",
+                "color": "648EF9",
+                "textColor": "rgb(100,142,249)",
+                "bgColor": "rgba(100,142,249,0.15)"
+              },
+              {
+                "key": "five",
+                "title": "满五年",
+                "color": "F2A12F",
+                "textColor": "rgb(242,161,47)",
+                "bgColor": "rgba(242,161,47,0.15)"
+              },
+              {
+                "key": "elevator",
+                "title": "有电梯",
+                "color": "7BBDFF",
+                "textColor": "rgb(123,189,255)",
+                "bgColor": "rgba(123,189,255,0.15)"
+              }
+            ],
+            "marketBooth": [
+              
+            ],
+            "poiDistance": "",
+            "poiIcon": ""
+          },
+          {
+            "cardType": "CARD_TYPE_ERSHOUFANG_LIST",
+            "cityId": "440100",
+            "houseCode": "108402580652",
+            "delegateId": "108402580652",
+            "resblockId": 2111103318500,
+            "title": "原装二房二厅一厨一卫 无遮挡 采光充足",
+            "desc": "2室2厅/76.42m²/东南 北/翠荷轩",
+            "bangdanTitle": "2室2厅/76.42m²/翠荷轩",
+            "recoDesc": "荔湾 坑口/中楼层 共11层/东南 北",
+            "totalPrice": "266万",
+            "unitPrice": "34,808元/平",
+            "jumpUrl": "https://m.lianjia.com/gz/ershoufang/108402580652.html?fb_expo_id=487651561158803460",
+            "listPictureUrl": "https://image1.ljcdn.com/110000-inspection/pc1_KNc7DGuOk_1.jpg.210x164.jpg",
+            "recommendReason": null,
+            "houseStatus": 1,
+            "isCtypeHouse": false,
+            "fbExpoId": "487651561158803460",
+            "statusSwitch": {
+              "isYeZhuTuijian": false,
+              "isHaofang": true,
+              "isYezhuPay": false,
+              "isVr": true,
+              "isKey": false,
+              "isNew": false
+            },
+            "brandTags": {
+              "title": "必看好房",
+              "picUrl": "https://img.ljcdn.com/beike/haofanglogo/1571901104492.png"
+            },
+            "hotTop": {
+              "dspAgentUcId": "",
+              "hotTopDigV": "",
+              "hotTop": 0
+            },
+            "isSellPrice": 2,
+            "priceListingGovCn": 0,
+            "unitPriceGov": 0,
+            "totalPriceInfo": {
+              "prefix": "",
+              "title": "266",
+              "suffix": "万"
+            },
+            "unitPriceInfo": {
+              "prefix": "",
+              "title": "34,808",
+              "suffix": "元/平"
+            },
+            "colorTags": [
+              {
+                "key": "isVr",
+                "title": "VR房源",
+                "color": "648EF9",
+                "textColor": "rgb(100,142,249)",
+                "bgColor": "rgba(100,142,249,0.15)"
+              },
+              {
+                "key": "five",
+                "title": "满五年",
+                "color": "F2A12F",
+                "textColor": "rgb(242,161,47)",
+                "bgColor": "rgba(242,161,47,0.15)"
+              },
+              {
+                "key": "elevator",
+                "title": "有电梯",
+                "color": "7BBDFF",
+                "textColor": "rgb(123,189,255)",
+                "bgColor": "rgba(123,189,255,0.15)"
+              }
+            ],
+            "marketBooth": [
+              
+            ],
+            "poiDistance": "",
+            "poiIcon": ""
+          },
+          {
+            "cardType": "CARD_TYPE_ERSHOUFANG_LIST",
+            "cityId": "440100",
+            "houseCode": "108402617832",
+            "delegateId": "108402617832",
+            "resblockId": 2110343238599425,
+            "title": "锦绣半岛东区 2室2厅 东南",
+            "desc": "2室2厅/85.2m²/东南/锦绣半岛东区",
+            "bangdanTitle": "2室2厅/85.2m²/锦绣半岛东区",
+            "recoDesc": "番禺 南浦/中楼层 共25层/东南",
+            "totalPrice": "300万",
+            "unitPrice": "35,212元/平",
+            "jumpUrl": "https://m.lianjia.com/gz/ershoufang/108402617832.html?fb_expo_id=487651561158803461",
+            "listPictureUrl": "https://image1.ljcdn.com/110000-inspection/pc1_s0Oq6tRdV.jpg.210x164.jpg",
+            "recommendReason": null,
+            "houseStatus": 1,
+            "isCtypeHouse": false,
+            "fbExpoId": "487651561158803461",
+            "statusSwitch": {
+              "isYeZhuTuijian": false,
+              "isHaofang": true,
+              "isYezhuPay": false,
+              "isVr": true,
+              "isKey": false,
+              "isNew": true
+            },
+            "brandTags": {
+              "title": "必看好房",
+              "picUrl": "https://img.ljcdn.com/beike/haofanglogo/1571901104492.png"
+            },
+            "hotTop": {
+              "dspAgentUcId": "",
+              "hotTopDigV": "",
+              "hotTop": 0
+            },
+            "isSellPrice": 2,
+            "priceListingGovCn": 0,
+            "unitPriceGov": 0,
+            "totalPriceInfo": {
+              "prefix": "",
+              "title": "300",
+              "suffix": "万"
+            },
+            "unitPriceInfo": {
+              "prefix": "",
+              "title": "35,212",
+              "suffix": "元/平"
+            },
+            "colorTags": [
+              {
+                "key": "isVr",
+                "title": "VR房源",
+                "color": "648EF9",
+                "textColor": "rgb(100,142,249)",
+                "bgColor": "rgba(100,142,249,0.15)"
+              },
+              {
+                "key": "five",
+                "title": "满五年",
+                "color": "F2A12F",
+                "textColor": "rgb(242,161,47)",
+                "bgColor": "rgba(242,161,47,0.15)"
+              },
+              {
+                "key": "new",
+                "title": "新上",
+                "color": "67CE67",
+                "textColor": "rgb(103,206,103)",
+                "bgColor": "rgba(103,206,103,0.15)"
+              },
+              {
+                "key": "elevator",
+                "title": "有电梯",
+                "color": "7BBDFF",
+                "textColor": "rgb(123,189,255)",
+                "bgColor": "rgba(123,189,255,0.15)"
+              }
+            ],
+            "marketBooth": {
+              "type": "bangdan",
+              "title": "南浦热门新上榜第2名",
+              "iconUrl": "https://img.ljcdn.com/beike/bangdan/1565234456984.png",
+              "textColor": "#222222",
+              "bgColor": "#FFFFFF"
+            },
+            "poiDistance": "",
+            "poiIcon": ""
+          },
+          {
+            "cardType": "CARD_TYPE_ERSHOUFANG_LIST",
+            "cityId": "440100",
+            "houseCode": "108402238834",
+            "delegateId": "108402238834",
+            "resblockId": 2110343238861593,
+            "title": "桥东小区  电梯大两房   过5年唯一  没有按揭",
+            "desc": "2室1厅/82.69m²/西北/桥东小区",
+            "bangdanTitle": "2室1厅/82.69m²/桥东小区",
+            "recoDesc": "荔湾 滘口/高楼层 共9层/西北",
+            "totalPrice": "210万",
+            "unitPrice": "25,397元/平",
+            "jumpUrl": "https://m.lianjia.com/gz/ershoufang/108402238834.html?fb_expo_id=487651561158803462",
+            "listPictureUrl": "https://image1.ljcdn.com/110000-inspection/pc1_x4fUP8JRg_1.jpg.210x164.jpg",
+            "recommendReason": null,
+            "houseStatus": 1,
+            "isCtypeHouse": false,
+            "fbExpoId": "487651561158803462",
+            "statusSwitch": {
+              "isYeZhuTuijian": false,
+              "isHaofang": true,
+              "isYezhuPay": false,
+              "isVr": true,
+              "isKey": true,
+              "isNew": false
+            },
+            "brandTags": {
+              "title": "必看好房",
+              "picUrl": "https://img.ljcdn.com/beike/haofanglogo/1571901104492.png"
+            },
+            "hotTop": {
+              "dspAgentUcId": "",
+              "hotTopDigV": "",
+              "hotTop": 0
+            },
+            "isSellPrice": 2,
+            "priceListingGovCn": 0,
+            "unitPriceGov": 0,
+            "totalPriceInfo": {
+              "prefix": "",
+              "title": "210",
+              "suffix": "万"
+            },
+            "unitPriceInfo": {
+              "prefix": "",
+              "title": "25,397",
+              "suffix": "元/平"
+            },
+            "colorTags": [
+              {
+                "key": "isVr",
+                "title": "VR房源",
+                "color": "648EF9",
+                "textColor": "rgb(100,142,249)",
+                "bgColor": "rgba(100,142,249,0.15)"
+              },
+              {
+                "key": "five",
+                "title": "满五年",
+                "color": "F2A12F",
+                "textColor": "rgb(242,161,47)",
+                "bgColor": "rgba(242,161,47,0.15)"
+              },
+              {
+                "key": "haskey",
+                "title": "随时看房",
+                "color": "33BE85",
+                "textColor": "rgb(51,190,133)",
+                "bgColor": "rgba(51,190,133,0.15)"
+              },
+              {
+                "key": "elevator",
+                "title": "有电梯",
+                "color": "7BBDFF",
+                "textColor": "rgb(123,189,255)",
+                "bgColor": "rgba(123,189,255,0.15)"
+              }
+            ],
+            "marketBooth": [
+              
+            ],
+            "poiDistance": "",
+            "poiIcon": ""
+          },
+          {
+            "cardType": "CARD_TYPE_ERSHOUFANG_LIST",
+            "cityId": "440100",
+            "houseCode": "108401959944",
+            "delegateId": "108401959944",
+            "resblockId": 2110343238861593,
+            "title": "桥东小区！电梯两房！安静望小区！满五唯一税费低！",
+            "desc": "2室1厅/71.37m²/东北/桥东小区",
+            "bangdanTitle": "2室1厅/71.37m²/桥东小区",
+            "recoDesc": "荔湾 滘口/低楼层 共9层/东北",
+            "totalPrice": "185万",
+            "unitPrice": "25,922元/平",
+            "jumpUrl": "https://m.lianjia.com/gz/ershoufang/108401959944.html?fb_expo_id=487651561158803463",
+            "listPictureUrl": "https://image1.ljcdn.com/110000-inspection/pc1_Q3YZ7JZhv_1.jpg.210x164.jpg",
+            "recommendReason": null,
+            "houseStatus": 1,
+            "isCtypeHouse": false,
+            "fbExpoId": "487651561158803463",
+            "statusSwitch": {
+              "isYeZhuTuijian": false,
+              "isHaofang": true,
+              "isYezhuPay": false,
+              "isVr": true,
+              "isKey": true,
+              "isNew": false
+            },
+            "brandTags": {
+              "title": "必看好房",
+              "picUrl": "https://img.ljcdn.com/beike/haofanglogo/1571901104492.png"
+            },
+            "hotTop": {
+              "dspAgentUcId": "",
+              "hotTopDigV": "",
+              "hotTop": 0
+            },
+            "isSellPrice": 2,
+            "priceListingGovCn": 0,
+            "unitPriceGov": 0,
+            "totalPriceInfo": {
+              "prefix": "",
+              "title": "185",
+              "suffix": "万"
+            },
+            "unitPriceInfo": {
+              "prefix": "",
+              "title": "25,922",
+              "suffix": "元/平"
+            },
+            "colorTags": [
+              {
+                "key": "isVr",
+                "title": "VR房源",
+                "color": "648EF9",
+                "textColor": "rgb(100,142,249)",
+                "bgColor": "rgba(100,142,249,0.15)"
+              },
+              {
+                "key": "five",
+                "title": "满五年",
+                "color": "F2A12F",
+                "textColor": "rgb(242,161,47)",
+                "bgColor": "rgba(242,161,47,0.15)"
+              },
+              {
+                "key": "haskey",
+                "title": "随时看房",
+                "color": "33BE85",
+                "textColor": "rgb(51,190,133)",
+                "bgColor": "rgba(51,190,133,0.15)"
+              },
+              {
+                "key": "elevator",
+                "title": "有电梯",
+                "color": "7BBDFF",
+                "textColor": "rgb(123,189,255)",
+                "bgColor": "rgba(123,189,255,0.15)"
+              }
+            ],
+            "marketBooth": [
+              
+            ],
+            "poiDistance": "",
+            "poiIcon": ""
+          },
+          {
+            "cardType": "CARD_TYPE_ERSHOUFANG_LIST",
+            "cityId": "440100",
+            "houseCode": "108402134447",
+            "delegateId": "108402134447",
+            "resblockId": 219999019159847,
+            "title": "全新未入住！证满两年，南向望花园，保养好",
+            "desc": "2室2厅/79.16m²/西南/新世界凯粤湾",
+            "bangdanTitle": "2室2厅/79.16m²/新世界凯粤湾",
+            "recoDesc": "荔湾 滘口/低楼层 共33层/西南",
+            "totalPrice": "380万",
+            "unitPrice": "48,005元/平",
+            "jumpUrl": "https://m.lianjia.com/gz/ershoufang/108402134447.html?fb_expo_id=487651561158803464",
+            "listPictureUrl": "https://image1.ljcdn.com/110000-inspection/pc1_YncpMlRCU_1.jpg.210x164.jpg",
+            "recommendReason": null,
+            "houseStatus": 1,
+            "isCtypeHouse": false,
+            "fbExpoId": "487651561158803464",
+            "statusSwitch": {
+              "isYeZhuTuijian": true,
+              "isHaofang": true,
+              "isYezhuPay": false,
+              "isVr": true,
+              "isKey": true,
+              "isNew": false
+            },
+            "brandTags": {
+              "title": "必看好房",
+              "picUrl": "https://img.ljcdn.com/beike/haofanglogo/1571901104492.png"
+            },
+            "hotTop": {
+              "dspAgentUcId": "",
+              "hotTopDigV": "",
+              "hotTop": 0
+            },
+            "isSellPrice": 2,
+            "priceListingGovCn": 0,
+            "unitPriceGov": 0,
+            "totalPriceInfo": {
+              "prefix": "",
+              "title": "380",
+              "suffix": "万"
+            },
+            "unitPriceInfo": {
+              "prefix": "",
+              "title": "48,005",
+              "suffix": "元/平"
+            },
+            "colorTags": [
+              {
+                "key": "isVr",
+                "title": "VR房源",
+                "color": "648EF9",
+                "textColor": "rgb(100,142,249)",
+                "bgColor": "rgba(100,142,249,0.15)"
+              },
+              {
+                "key": "two",
+                "title": "满两年",
+                "color": "F2A12F",
+                "textColor": "rgb(242,161,47)",
+                "bgColor": "rgba(242,161,47,0.15)"
+              },
+              {
+                "key": "haskey",
+                "title": "随时看房",
+                "color": "33BE85",
+                "textColor": "rgb(51,190,133)",
+                "bgColor": "rgba(51,190,133,0.15)"
+              },
+              {
+                "key": "elevator",
+                "title": "有电梯",
+                "color": "7BBDFF",
+                "textColor": "rgb(123,189,255)",
+                "bgColor": "rgba(123,189,255,0.15)"
+              }
+            ],
+            "marketBooth": [
+              
+            ],
+            "poiDistance": "",
+            "poiIcon": ""
+          },
+          {
+            "cardType": "CARD_TYPE_ERSHOUFANG_LIST",
+            "cityId": "440100",
+            "houseCode": "108402179919",
+            "delegateId": "108402179919",
+            "resblockId": 2110343238861226,
+            "title": "新世界逸彩庭园  东南向望花园 采光通风俱佳 产权清晰",
+            "desc": "3室2厅/102.97m²/东南/新世界逸彩庭园",
+            "bangdanTitle": "3室2厅/102.97m²/新世界逸彩庭园",
+            "recoDesc": "荔湾 滘口/中楼层 共19层/东南",
+            "totalPrice": "385万",
+            "unitPrice": "37,390元/平",
+            "jumpUrl": "https://m.lianjia.com/gz/ershoufang/108402179919.html?fb_expo_id=487651561158803465",
+            "listPictureUrl": "https://image1.ljcdn.com/110000-inspection/pc1_x8p1wgXcR_1.jpg.210x164.jpg",
+            "recommendReason": null,
+            "houseStatus": 1,
+            "isCtypeHouse": false,
+            "fbExpoId": "487651561158803465",
+            "statusSwitch": {
+              "isYeZhuTuijian": false,
+              "isHaofang": true,
+              "isYezhuPay": false,
+              "isVr": true,
+              "isKey": true,
+              "isNew": false
+            },
+            "brandTags": {
+              "title": "必看好房",
+              "picUrl": "https://img.ljcdn.com/beike/haofanglogo/1571901104492.png"
+            },
+            "hotTop": {
+              "dspAgentUcId": "",
+              "hotTopDigV": "",
+              "hotTop": 0
+            },
+            "isSellPrice": 2,
+            "priceListingGovCn": 0,
+            "unitPriceGov": 0,
+            "totalPriceInfo": {
+              "prefix": "",
+              "title": "385",
+              "suffix": "万"
+            },
+            "unitPriceInfo": {
+              "prefix": "",
+              "title": "37,390",
+              "suffix": "元/平"
+            },
+            "colorTags": [
+              {
+                "key": "isVr",
+                "title": "VR房源",
+                "color": "648EF9",
+                "textColor": "rgb(100,142,249)",
+                "bgColor": "rgba(100,142,249,0.15)"
+              },
+              {
+                "key": "five",
+                "title": "满五年",
+                "color": "F2A12F",
+                "textColor": "rgb(242,161,47)",
+                "bgColor": "rgba(242,161,47,0.15)"
+              },
+              {
+                "key": "haskey",
+                "title": "随时看房",
+                "color": "33BE85",
+                "textColor": "rgb(51,190,133)",
+                "bgColor": "rgba(51,190,133,0.15)"
+              },
+              {
+                "key": "elevator",
+                "title": "有电梯",
+                "color": "7BBDFF",
+                "textColor": "rgb(123,189,255)",
+                "bgColor": "rgba(123,189,255,0.15)"
+              }
+            ],
+            "marketBooth": [
+              
+            ],
+            "poiDistance": "",
+            "poiIcon": ""
+          },
+          {
+            "cardType": "CARD_TYPE_ERSHOUFANG_LIST",
+            "cityId": "440100",
+            "houseCode": "108402467351",
+            "delegateId": "108402467351",
+            "resblockId": 2110343238861226,
+            "title": "房子东南朝向 格局方正 光线好 业主够5年唯一物业",
+            "desc": "3室1厅/103.96m²/东南/新世界逸彩庭园",
+            "bangdanTitle": "3室1厅/103.96m²/新世界逸彩庭园",
+            "recoDesc": "荔湾 滘口/中楼层 共20层/东南",
+            "totalPrice": "412万",
+            "unitPrice": "39,631元/平",
+            "jumpUrl": "https://m.lianjia.com/gz/ershoufang/108402467351.html?fb_expo_id=487651561158803466",
+            "listPictureUrl": "https://image1.ljcdn.com/110000-inspection/pc1_vjKXMOfF7_1.jpg.210x164.jpg",
+            "recommendReason": null,
+            "houseStatus": 1,
+            "isCtypeHouse": false,
+            "fbExpoId": "487651561158803466",
+            "statusSwitch": {
+              "isYeZhuTuijian": false,
+              "isHaofang": true,
+              "isYezhuPay": false,
+              "isVr": true,
+              "isKey": false,
+              "isNew": false
+            },
+            "brandTags": {
+              "title": "必看好房",
+              "picUrl": "https://img.ljcdn.com/beike/haofanglogo/1571901104492.png"
+            },
+            "hotTop": {
+              "dspAgentUcId": "",
+              "hotTopDigV": "",
+              "hotTop": 0
+            },
+            "isSellPrice": 2,
+            "priceListingGovCn": 0,
+            "unitPriceGov": 0,
+            "totalPriceInfo": {
+              "prefix": "",
+              "title": "412",
+              "suffix": "万"
+            },
+            "unitPriceInfo": {
+              "prefix": "",
+              "title": "39,631",
+              "suffix": "元/平"
+            },
+            "colorTags": [
+              {
+                "key": "isVr",
+                "title": "VR房源",
+                "color": "648EF9",
+                "textColor": "rgb(100,142,249)",
+                "bgColor": "rgba(100,142,249,0.15)"
+              },
+              {
+                "key": "five",
+                "title": "满五年",
+                "color": "F2A12F",
+                "textColor": "rgb(242,161,47)",
+                "bgColor": "rgba(242,161,47,0.15)"
+              },
+              {
+                "key": "elevator",
+                "title": "有电梯",
+                "color": "7BBDFF",
+                "textColor": "rgb(123,189,255)",
+                "bgColor": "rgba(123,189,255,0.15)"
+              }
+            ],
+            "marketBooth": [
+              
+            ],
+            "poiDistance": "",
+            "poiIcon": ""
+          },
+          {
+            "cardType": "CARD_TYPE_ERSHOUFANG_LIST",
+            "cityId": "440100",
+            "houseCode": "108402529551",
+            "delegateId": "108402529551",
+            "resblockId": 2110343239123044,
+            "title": "此房满五唯一 电梯东南向厅直出阳台 楼层好 采光充足",
+            "desc": "2室1厅/78.27m²/东南 南 北/瑞宝花园",
+            "bangdanTitle": "2室1厅/78.27m²/瑞宝花园",
+            "recoDesc": "海珠 东晓南/高楼层 共9层/东南 南 北",
+            "totalPrice": "293万",
+            "unitPrice": "37,435元/平",
+            "jumpUrl": "https://m.lianjia.com/gz/ershoufang/108402529551.html?fb_expo_id=487651561158803467",
+            "listPictureUrl": "https://image1.ljcdn.com/110000-inspection/pc1_kQtLgreZK_1.jpg.210x164.jpg",
+            "recommendReason": null,
+            "houseStatus": 1,
+            "isCtypeHouse": false,
+            "fbExpoId": "487651561158803467",
+            "statusSwitch": {
+              "isYeZhuTuijian": false,
+              "isHaofang": true,
+              "isYezhuPay": false,
+              "isVr": true,
+              "isKey": true,
+              "isNew": false
+            },
+            "brandTags": {
+              "title": "必看好房",
+              "picUrl": "https://img.ljcdn.com/beike/haofanglogo/1571901104492.png"
+            },
+            "hotTop": {
+              "dspAgentUcId": "",
+              "hotTopDigV": "",
+              "hotTop": 0
+            },
+            "isSellPrice": 2,
+            "priceListingGovCn": 0,
+            "unitPriceGov": 0,
+            "totalPriceInfo": {
+              "prefix": "",
+              "title": "293",
+              "suffix": "万"
+            },
+            "unitPriceInfo": {
+              "prefix": "",
+              "title": "37,435",
+              "suffix": "元/平"
+            },
+            "colorTags": [
+              {
+                "key": "subwayHouse",
+                "title": "地铁",
+                "color": "59ABFD",
+                "textColor": "rgb(89,171,253)",
+                "bgColor": "rgba(89,171,253,0.15)"
+              },
+              {
+                "key": "isVr",
+                "title": "VR房源",
+                "color": "648EF9",
+                "textColor": "rgb(100,142,249)",
+                "bgColor": "rgba(100,142,249,0.15)"
+              },
+              {
+                "key": "five",
+                "title": "满五年",
+                "color": "F2A12F",
+                "textColor": "rgb(242,161,47)",
+                "bgColor": "rgba(242,161,47,0.15)"
+              },
+              {
+                "key": "haskey",
+                "title": "随时看房",
+                "color": "33BE85",
+                "textColor": "rgb(51,190,133)",
+                "bgColor": "rgba(51,190,133,0.15)"
+              }
+            ],
+            "marketBooth": [
+              
+            ],
+            "poiDistance": "",
+            "poiIcon": ""
+          },
+          {
+            "cardType": "CARD_TYPE_ERSHOUFANG_LIST",
+            "cityId": "440100",
+            "houseCode": "108401959600",
+            "delegateId": "108401959600",
+            "resblockId": 2110343239123168,
+            "title": "中环品悦 次新高层 南向望长隆 2+1房通风采光好",
+            "desc": "2室2厅/77m²/东南/中环品悦",
+            "bangdanTitle": "2室2厅/77m²/中环品悦",
+            "recoDesc": "番禺 大石/高楼层 共21层/东南",
+            "totalPrice": "265万",
+            "unitPrice": "34,416元/平",
+            "jumpUrl": "https://m.lianjia.com/gz/ershoufang/108401959600.html?fb_expo_id=487651561158803468",
+            "listPictureUrl": "https://image1.ljcdn.com/110000-inspection/pc1_jEPf1dalf_1.jpg.210x164.jpg",
+            "recommendReason": null,
+            "houseStatus": 1,
+            "isCtypeHouse": false,
+            "fbExpoId": "487651561158803468",
+            "statusSwitch": {
+              "isYeZhuTuijian": true,
+              "isHaofang": false,
+              "isYezhuPay": true,
+              "isVr": true,
+              "isKey": true,
+              "isNew": false
+            },
+            "brandTags": {
+              "title": "好赞好房",
+              "picUrl": "https://img.ljcdn.com/beike/bikanhaofang/1581996690584.png"
+            },
+            "hotTop": {
+              "dspAgentUcId": "",
+              "hotTopDigV": "",
+              "hotTop": 0
+            },
+            "isSellPrice": 2,
+            "priceListingGovCn": 0,
+            "unitPriceGov": 0,
+            "totalPriceInfo": {
+              "prefix": "",
+              "title": "265",
+              "suffix": "万"
+            },
+            "unitPriceInfo": {
+              "prefix": "",
+              "title": "34,416",
+              "suffix": "元/平"
+            },
+            "colorTags": [
+              {
+                "key": "isVr",
+                "title": "VR房源",
+                "color": "648EF9",
+                "textColor": "rgb(100,142,249)",
+                "bgColor": "rgba(100,142,249,0.15)"
+              },
+              {
+                "key": "five",
+                "title": "满五年",
+                "color": "F2A12F",
+                "textColor": "rgb(242,161,47)",
+                "bgColor": "rgba(242,161,47,0.15)"
+              },
+              {
+                "key": "haskey",
+                "title": "随时看房",
+                "color": "33BE85",
+                "textColor": "rgb(51,190,133)",
+                "bgColor": "rgba(51,190,133,0.15)"
+              },
+              {
+                "key": "elevator",
+                "title": "有电梯",
+                "color": "7BBDFF",
+                "textColor": "rgb(123,189,255)",
+                "bgColor": "rgba(123,189,255,0.15)"
+              }
+            ],
+            "marketBooth": [
+              
+            ],
+            "poiDistance": "",
+            "poiIcon": ""
+          },
+          {
+            "cardType": "CARD_TYPE_ERSHOUFANG_LIST",
+            "cityId": "440100",
+            "houseCode": "108402287319",
+            "delegateId": "108402287319",
+            "resblockId": 21000000001789,
+            "title": "户型方正 明厅明卧 双层玻璃 安静宜居 滘口地铁600米",
+            "desc": "2室2厅/74.63m²/西南/万兴苑（荔湾）",
+            "bangdanTitle": "2室2厅/74.63m²/万兴苑（荔湾）",
+            "recoDesc": "荔湾 滘口/中楼层 共9层/西南",
+            "totalPrice": "200万",
+            "unitPrice": "26,799元/平",
+            "jumpUrl": "https://m.lianjia.com/gz/ershoufang/108402287319.html?fb_expo_id=487651561158803469",
+            "listPictureUrl": "https://image1.ljcdn.com/110000-inspection/pc1_qXPscjA34_1.jpg.210x164.jpg",
+            "recommendReason": null,
+            "houseStatus": 1,
+            "isCtypeHouse": false,
+            "fbExpoId": "487651561158803469",
+            "statusSwitch": {
+              "isYeZhuTuijian": true,
+              "isHaofang": false,
+              "isYezhuPay": true,
+              "isVr": true,
+              "isKey": false,
+              "isNew": false
+            },
+            "brandTags": {
+              "title": "好赞好房",
+              "picUrl": "https://img.ljcdn.com/beike/bikanhaofang/1581996690584.png"
+            },
+            "hotTop": {
+              "dspAgentUcId": "",
+              "hotTopDigV": "",
+              "hotTop": 0
+            },
+            "isSellPrice": 2,
+            "priceListingGovCn": 0,
+            "unitPriceGov": 0,
+            "totalPriceInfo": {
+              "prefix": "",
+              "title": "200",
+              "suffix": "万"
+            },
+            "unitPriceInfo": {
+              "prefix": "",
+              "title": "26,799",
+              "suffix": "元/平"
+            },
+            "colorTags": [
+              {
+                "key": "subwayHouse",
+                "title": "地铁",
+                "color": "59ABFD",
+                "textColor": "rgb(89,171,253)",
+                "bgColor": "rgba(89,171,253,0.15)"
+              },
+              {
+                "key": "isVr",
+                "title": "VR房源",
+                "color": "648EF9",
+                "textColor": "rgb(100,142,249)",
+                "bgColor": "rgba(100,142,249,0.15)"
+              },
+              {
+                "key": "five",
+                "title": "满五年",
+                "color": "F2A12F",
+                "textColor": "rgb(242,161,47)",
+                "bgColor": "rgba(242,161,47,0.15)"
+              }
+            ],
+            "marketBooth": [
+              
+            ],
+            "poiDistance": "",
+            "poiIcon": ""
+          },
+          {
+            "cardType": "CARD_TYPE_ERSHOUFANG_LIST",
+            "cityId": "440100",
+            "houseCode": "108402539341",
+            "delegateId": "108402539341",
+            "resblockId": 2110343239123044,
+            "title": "南向电梯两房，保养新净，业主急*，可承担一半增值税",
+            "desc": "2室2厅/77.68m²/东南/瑞宝花园",
+            "bangdanTitle": "2室2厅/77.68m²/瑞宝花园",
+            "recoDesc": "海珠 东晓南/低楼层 共9层/东南",
+            "totalPrice": "300万",
+            "unitPrice": "38,620元/平",
+            "jumpUrl": "https://m.lianjia.com/gz/ershoufang/108402539341.html?fb_expo_id=487651561158803470",
+            "listPictureUrl": "https://image1.ljcdn.com/110000-inspection/pc1_LxU5lGXuM_1.jpg.210x164.jpg",
+            "recommendReason": null,
+            "houseStatus": 1,
+            "isCtypeHouse": false,
+            "fbExpoId": "487651561158803470",
+            "statusSwitch": {
+              "isYeZhuTuijian": false,
+              "isHaofang": true,
+              "isYezhuPay": false,
+              "isVr": true,
+              "isKey": false,
+              "isNew": false
+            },
+            "brandTags": {
+              "title": "必看好房",
+              "picUrl": "https://img.ljcdn.com/beike/haofanglogo/1571901104492.png"
+            },
+            "hotTop": {
+              "dspAgentUcId": "",
+              "hotTopDigV": "",
+              "hotTop": 0
+            },
+            "isSellPrice": 2,
+            "priceListingGovCn": 0,
+            "unitPriceGov": 0,
+            "totalPriceInfo": {
+              "prefix": "",
+              "title": "300",
+              "suffix": "万"
+            },
+            "unitPriceInfo": {
+              "prefix": "",
+              "title": "38,620",
+              "suffix": "元/平"
+            },
+            "colorTags": [
+              {
+                "key": "subwayHouse",
+                "title": "地铁",
+                "color": "59ABFD",
+                "textColor": "rgb(89,171,253)",
+                "bgColor": "rgba(89,171,253,0.15)"
+              },
+              {
+                "key": "isVr",
+                "title": "VR房源",
+                "color": "648EF9",
+                "textColor": "rgb(100,142,249)",
+                "bgColor": "rgba(100,142,249,0.15)"
+              },
+              {
+                "key": "two",
+                "title": "满两年",
+                "color": "F2A12F",
+                "textColor": "rgb(242,161,47)",
+                "bgColor": "rgba(242,161,47,0.15)"
+              },
+              {
+                "key": "elevator",
+                "title": "有电梯",
+                "color": "7BBDFF",
+                "textColor": "rgb(123,189,255)",
+                "bgColor": "rgba(123,189,255,0.15)"
+              }
+            ],
+            "marketBooth": [
+              
+            ],
+            "poiDistance": "",
+            "poiIcon": ""
+          },
+          {
+            "cardType": "CARD_TYPE_ERSHOUFANG_LIST",
+            "cityId": "440100",
+            "houseCode": "108402529097",
+            "delegateId": "108402529097",
+            "resblockId": 2111103318193,
+            "title": "一汽宿舍 电梯2房 户型方正  东向采光好",
+            "desc": "2室2厅/73m²/东南 南/一汽宿舍",
+            "bangdanTitle": "2室2厅/73m²/一汽宿舍",
+            "recoDesc": "天河 东圃/中楼层 共9层/东南 南",
+            "totalPrice": "268万",
+            "unitPrice": "36,713元/平",
+            "jumpUrl": "https://m.lianjia.com/gz/ershoufang/108402529097.html?fb_expo_id=487651561158803471",
+            "listPictureUrl": "https://image1.ljcdn.com/110000-inspection/pc1_du4MdGXyf.jpg.210x164.jpg",
+            "recommendReason": null,
+            "houseStatus": 1,
+            "isCtypeHouse": false,
+            "fbExpoId": "487651561158803471",
+            "statusSwitch": {
+              "isYeZhuTuijian": false,
+              "isHaofang": true,
+              "isYezhuPay": false,
+              "isVr": true,
+              "isKey": false,
+              "isNew": false
+            },
+            "brandTags": {
+              "title": "必看好房",
+              "picUrl": "https://img.ljcdn.com/beike/haofanglogo/1571901104492.png"
+            },
+            "hotTop": {
+              "dspAgentUcId": "",
+              "hotTopDigV": "",
+              "hotTop": 0
+            },
+            "isSellPrice": 2,
+            "priceListingGovCn": 0,
+            "unitPriceGov": 0,
+            "totalPriceInfo": {
+              "prefix": "",
+              "title": "268",
+              "suffix": "万"
+            },
+            "unitPriceInfo": {
+              "prefix": "",
+              "title": "36,713",
+              "suffix": "元/平"
+            },
+            "colorTags": [
+              {
+                "key": "isVr",
+                "title": "VR房源",
+                "color": "648EF9",
+                "textColor": "rgb(100,142,249)",
+                "bgColor": "rgba(100,142,249,0.15)"
+              },
+              {
+                "key": "elevator",
+                "title": "有电梯",
+                "color": "7BBDFF",
+                "textColor": "rgb(123,189,255)",
+                "bgColor": "rgba(123,189,255,0.15)"
+              }
+            ],
+            "marketBooth": [
+              
+            ],
+            "poiDistance": "",
+            "poiIcon": ""
+          },
+          {
+            "cardType": "CARD_TYPE_ERSHOUFANG_LIST",
+            "cityId": "440100",
+            "houseCode": "108402465234",
+            "delegateId": "108402465234",
+            "resblockId": 2111103316975,
+            "title": "江燕花园 电梯南向  厅出阳台正规两房",
+            "desc": "2室1厅/70.18m²/东南/江燕花园",
+            "bangdanTitle": "2室1厅/70.18m²/江燕花园",
+            "recoDesc": "海珠 江燕路/高楼层 共9层/东南",
+            "totalPrice": "289万",
+            "unitPrice": "41,180元/平",
+            "jumpUrl": "https://m.lianjia.com/gz/ershoufang/108402465234.html?fb_expo_id=487651561158803472",
+            "listPictureUrl": "https://image1.ljcdn.com/110000-inspection/pc1_kglO1LXVP_1.jpg.210x164.jpg",
+            "recommendReason": null,
+            "houseStatus": 1,
+            "isCtypeHouse": false,
+            "fbExpoId": "487651561158803472",
+            "statusSwitch": {
+              "isYeZhuTuijian": true,
+              "isHaofang": true,
+              "isYezhuPay": false,
+              "isVr": true,
+              "isKey": false,
+              "isNew": false
+            },
+            "brandTags": {
+              "title": "必看好房",
+              "picUrl": "https://img.ljcdn.com/beike/haofanglogo/1571901104492.png"
+            },
+            "hotTop": {
+              "dspAgentUcId": "",
+              "hotTopDigV": "",
+              "hotTop": 0
+            },
+            "isSellPrice": 2,
+            "priceListingGovCn": 0,
+            "unitPriceGov": 0,
+            "totalPriceInfo": {
+              "prefix": "",
+              "title": "289",
+              "suffix": "万"
+            },
+            "unitPriceInfo": {
+              "prefix": "",
+              "title": "41,180",
+              "suffix": "元/平"
+            },
+            "colorTags": [
+              {
+                "key": "isVr",
+                "title": "VR房源",
+                "color": "648EF9",
+                "textColor": "rgb(100,142,249)",
+                "bgColor": "rgba(100,142,249,0.15)"
+              },
+              {
+                "key": "five",
+                "title": "满五年",
+                "color": "F2A12F",
+                "textColor": "rgb(242,161,47)",
+                "bgColor": "rgba(242,161,47,0.15)"
+              },
+              {
+                "key": "elevator",
+                "title": "有电梯",
+                "color": "7BBDFF",
+                "textColor": "rgb(123,189,255)",
+                "bgColor": "rgba(123,189,255,0.15)"
+              }
+            ],
+            "marketBooth": [
+              
+            ],
+            "poiDistance": "",
+            "poiIcon": ""
+          },
+          {
+            "cardType": "CARD_TYPE_ERSHOUFANG_LIST",
+            "cityId": "440100",
+            "houseCode": "108402618994",
+            "delegateId": "108402618994",
+            "resblockId": 2111103317938,
+            "title": "金麓山庄 中层 东南向两房 证过五年唯一 有匙即睇",
+            "desc": "2室1厅/75.9m²/东南/金麓山庄",
+            "bangdanTitle": "2室1厅/75.9m²/金麓山庄",
+            "recoDesc": "越秀 麓景/中楼层 共9层/东南",
+            "totalPrice": "280万",
+            "unitPrice": "36,891元/平",
+            "jumpUrl": "https://m.lianjia.com/gz/ershoufang/108402618994.html?fb_expo_id=487651561158803473",
+            "listPictureUrl": "https://image1.ljcdn.com/110000-inspection/b93f5294-70ee-45ba-b016-9eae434d8ce2_1000.jpg.210x164.jpg",
+            "recommendReason": null,
+            "houseStatus": 1,
+            "isCtypeHouse": false,
+            "fbExpoId": "487651561158803473",
+            "statusSwitch": {
+              "isYeZhuTuijian": false,
+              "isHaofang": true,
+              "isYezhuPay": false,
+              "isVr": true,
+              "isKey": true,
+              "isNew": true
+            },
+            "brandTags": {
+              "title": "必看好房",
+              "picUrl": "https://img.ljcdn.com/beike/haofanglogo/1571901104492.png"
+            },
+            "hotTop": {
+              "dspAgentUcId": "",
+              "hotTopDigV": "",
+              "hotTop": 0
+            },
+            "isSellPrice": 2,
+            "priceListingGovCn": 0,
+            "unitPriceGov": 0,
+            "totalPriceInfo": {
+              "prefix": "",
+              "title": "280",
+              "suffix": "万"
+            },
+            "unitPriceInfo": {
+              "prefix": "",
+              "title": "36,891",
+              "suffix": "元/平"
+            },
+            "colorTags": [
+              {
+                "key": "subwayHouse",
+                "title": "地铁",
+                "color": "59ABFD",
+                "textColor": "rgb(89,171,253)",
+                "bgColor": "rgba(89,171,253,0.15)"
+              },
+              {
+                "key": "isVr",
+                "title": "VR房源",
+                "color": "648EF9",
+                "textColor": "rgb(100,142,249)",
+                "bgColor": "rgba(100,142,249,0.15)"
+              },
+              {
+                "key": "five",
+                "title": "满五年",
+                "color": "F2A12F",
+                "textColor": "rgb(242,161,47)",
+                "bgColor": "rgba(242,161,47,0.15)"
+              },
+              {
+                "key": "haskey",
+                "title": "随时看房",
+                "color": "33BE85",
+                "textColor": "rgb(51,190,133)",
+                "bgColor": "rgba(51,190,133,0.15)"
+              }
+            ],
+            "marketBooth": {
+              "type": "bangdan",
+              "title": "麓景热门新上榜第1名",
+              "iconUrl": "https://img.ljcdn.com/beike/bangdan/1565234456984.png",
+              "textColor": "#222222",
+              "bgColor": "#FFFFFF"
+            },
+            "poiDistance": "",
+            "poiIcon": ""
+          },
+          {
+            "cardType": "CARD_TYPE_ERSHOUFANG_LIST",
+            "cityId": "440100",
+            "houseCode": "108400635661",
+            "delegateId": "108400635661",
+            "resblockId": 2110343239123044,
+            "title": "瑞宝花园，户型方正，厅出阳台大两房",
+            "desc": "2室1厅/79.76m²/东南/瑞宝花园",
+            "bangdanTitle": "2室1厅/79.76m²/瑞宝花园",
+            "recoDesc": "海珠 东晓南/高楼层 共9层/东南",
+            "totalPrice": "260万",
+            "unitPrice": "32,598元/平",
+            "jumpUrl": "https://m.lianjia.com/gz/ershoufang/108400635661.html?fb_expo_id=487651561158803474",
+            "listPictureUrl": "https://image1.ljcdn.com/440100-inspection/pc1_8dpcj6XR2_1.jpg.210x164.jpg",
+            "recommendReason": null,
+            "houseStatus": 1,
+            "isCtypeHouse": false,
+            "fbExpoId": "487651561158803474",
+            "statusSwitch": {
+              "isYeZhuTuijian": true,
+              "isHaofang": false,
+              "isYezhuPay": true,
+              "isVr": true,
+              "isKey": true,
+              "isNew": false
+            },
+            "brandTags": {
+              "title": "好赞好房",
+              "picUrl": "https://img.ljcdn.com/beike/bikanhaofang/1581996690584.png"
+            },
+            "hotTop": {
+              "dspAgentUcId": "",
+              "hotTopDigV": "",
+              "hotTop": 0
+            },
+            "isSellPrice": 2,
+            "priceListingGovCn": 0,
+            "unitPriceGov": 0,
+            "totalPriceInfo": {
+              "prefix": "",
+              "title": "260",
+              "suffix": "万"
+            },
+            "unitPriceInfo": {
+              "prefix": "",
+              "title": "32,598",
+              "suffix": "元/平"
+            },
+            "colorTags": [
+              {
+                "key": "isVr",
+                "title": "VR房源",
+                "color": "648EF9",
+                "textColor": "rgb(100,142,249)",
+                "bgColor": "rgba(100,142,249,0.15)"
+              },
+              {
+                "key": "five",
+                "title": "满五年",
+                "color": "F2A12F",
+                "textColor": "rgb(242,161,47)",
+                "bgColor": "rgba(242,161,47,0.15)"
+              },
+              {
+                "key": "haskey",
+                "title": "随时看房",
+                "color": "33BE85",
+                "textColor": "rgb(51,190,133)",
+                "bgColor": "rgba(51,190,133,0.15)"
+              }
+            ],
+            "marketBooth": [
+              
+            ],
+            "poiDistance": "",
+            "poiIcon": ""
+          },
+          {
+            "cardType": "CARD_TYPE_ERSHOUFANG_LIST",
+            "cityId": "440100",
+            "houseCode": "108402570039",
+            "delegateId": "108402570039",
+            "resblockId": 2110343238598939,
+            "title": "五芳苑，比较新净电梯，封闭小区，原装两房，实用高",
+            "desc": "2室1厅/58.2m²/东南/五芳苑",
+            "bangdanTitle": "2室1厅/58.2m²/五芳苑",
+            "recoDesc": "荔湾 滘口/中楼层 共9层/东南",
+            "totalPrice": "192万",
+            "unitPrice": "32,990元/平",
+            "jumpUrl": "https://m.lianjia.com/gz/ershoufang/108402570039.html?fb_expo_id=487651561158803475",
+            "listPictureUrl": "https://image1.ljcdn.com/110000-inspection/pc1_eisj4E0JK_1.jpg.210x164.jpg",
+            "recommendReason": null,
+            "houseStatus": 1,
+            "isCtypeHouse": false,
+            "fbExpoId": "487651561158803475",
+            "statusSwitch": {
+              "isYeZhuTuijian": false,
+              "isHaofang": true,
+              "isYezhuPay": false,
+              "isVr": true,
+              "isKey": false,
+              "isNew": false
+            },
+            "brandTags": {
+              "title": "必看好房",
+              "picUrl": "https://img.ljcdn.com/beike/haofanglogo/1571901104492.png"
+            },
+            "hotTop": {
+              "dspAgentUcId": "",
+              "hotTopDigV": "",
+              "hotTop": 0
+            },
+            "isSellPrice": 2,
+            "priceListingGovCn": 0,
+            "unitPriceGov": 0,
+            "totalPriceInfo": {
+              "prefix": "",
+              "title": "192",
+              "suffix": "万"
+            },
+            "unitPriceInfo": {
+              "prefix": "",
+              "title": "32,990",
+              "suffix": "元/平"
+            },
+            "colorTags": [
+              {
+                "key": "isVr",
+                "title": "VR房源",
+                "color": "648EF9",
+                "textColor": "rgb(100,142,249)",
+                "bgColor": "rgba(100,142,249,0.15)"
+              },
+              {
+                "key": "five",
+                "title": "满五年",
+                "color": "F2A12F",
+                "textColor": "rgb(242,161,47)",
+                "bgColor": "rgba(242,161,47,0.15)"
+              },
+              {
+                "key": "elevator",
+                "title": "有电梯",
+                "color": "7BBDFF",
+                "textColor": "rgb(123,189,255)",
+                "bgColor": "rgba(123,189,255,0.15)"
+              }
+            ],
+            "marketBooth": [
+              
+            ],
+            "poiDistance": "",
+            "poiIcon": ""
+          },
+          {
+            "cardType": "CARD_TYPE_ERSHOUFANG_LIST",
+            "cityId": "440100",
+            "houseCode": "108401636784",
+            "delegateId": "108401636784",
+            "resblockId": 2111103831651,
+            "title": "芳村大道西 加装电梯 交通便利 配套完善",
+            "desc": "2室1厅/68.8m²/东南/芳村大道西",
+            "bangdanTitle": "2室1厅/68.8m²/芳村大道西",
+            "recoDesc": "荔湾 滘口/高楼层 共9层/东南",
+            "totalPrice": "230万",
+            "unitPrice": "33,431元/平",
+            "jumpUrl": "https://m.lianjia.com/gz/ershoufang/108401636784.html?fb_expo_id=487651561158803476",
+            "listPictureUrl": "https://image1.ljcdn.com/110000-inspection/pc1_bMwKQRw7z_1.jpg.210x164.jpg",
+            "recommendReason": null,
+            "houseStatus": 1,
+            "isCtypeHouse": false,
+            "fbExpoId": "487651561158803476",
+            "statusSwitch": {
+              "isYeZhuTuijian": false,
+              "isHaofang": true,
+              "isYezhuPay": false,
+              "isVr": true,
+              "isKey": false,
+              "isNew": false
+            },
+            "brandTags": {
+              "title": "必看好房",
+              "picUrl": "https://img.ljcdn.com/beike/haofanglogo/1571901104492.png"
+            },
+            "hotTop": {
+              "dspAgentUcId": "",
+              "hotTopDigV": "",
+              "hotTop": 0
+            },
+            "isSellPrice": 2,
+            "priceListingGovCn": 0,
+            "unitPriceGov": 0,
+            "totalPriceInfo": {
+              "prefix": "",
+              "title": "230",
+              "suffix": "万"
+            },
+            "unitPriceInfo": {
+              "prefix": "",
+              "title": "33,431",
+              "suffix": "元/平"
+            },
+            "colorTags": [
+              {
+                "key": "isVr",
+                "title": "VR房源",
+                "color": "648EF9",
+                "textColor": "rgb(100,142,249)",
+                "bgColor": "rgba(100,142,249,0.15)"
+              },
+              {
+                "key": "five",
+                "title": "满五年",
+                "color": "F2A12F",
+                "textColor": "rgb(242,161,47)",
+                "bgColor": "rgba(242,161,47,0.15)"
+              },
+              {
+                "key": "elevator",
+                "title": "有电梯",
+                "color": "7BBDFF",
+                "textColor": "rgb(123,189,255)",
+                "bgColor": "rgba(123,189,255,0.15)"
+              }
+            ],
+            "marketBooth": [
+              
+            ],
+            "poiDistance": "",
+            "poiIcon": ""
+          },
+          {
+            "cardType": "CARD_TYPE_ERSHOUFANG_LIST",
+            "cityId": "440100",
+            "houseCode": "108402632104",
+            "delegateId": "108402632104",
+            "resblockId": 2110343238861226,
+            "title": "新世界逸彩庭园 4室2厅 北",
+            "desc": "4室2厅/152.38m²/北/新世界逸彩庭园",
+            "bangdanTitle": "4室2厅/152.38m²/新世界逸彩庭园",
+            "recoDesc": "荔湾 滘口/低楼层 共19层/北",
+            "totalPrice": "565万",
+            "unitPrice": "37,079元/平",
+            "jumpUrl": "https://m.lianjia.com/gz/ershoufang/108402632104.html?fb_expo_id=487651561158803477",
+            "listPictureUrl": "https://image1.ljcdn.com/440100-inspection/pc1_gULuVnWLm_1.jpg.210x164.jpg",
+            "recommendReason": null,
+            "houseStatus": 1,
+            "isCtypeHouse": false,
+            "fbExpoId": "487651561158803477",
+            "statusSwitch": {
+              "isYeZhuTuijian": false,
+              "isHaofang": true,
+              "isYezhuPay": false,
+              "isVr": true,
+              "isKey": false,
+              "isNew": true
+            },
+            "brandTags": {
+              "title": "必看好房",
+              "picUrl": "https://img.ljcdn.com/beike/haofanglogo/1571901104492.png"
+            },
+            "hotTop": {
+              "dspAgentUcId": "",
+              "hotTopDigV": "",
+              "hotTop": 0
+            },
+            "isSellPrice": 2,
+            "priceListingGovCn": 0,
+            "unitPriceGov": 0,
+            "totalPriceInfo": {
+              "prefix": "",
+              "title": "565",
+              "suffix": "万"
+            },
+            "unitPriceInfo": {
+              "prefix": "",
+              "title": "37,079",
+              "suffix": "元/平"
+            },
+            "colorTags": [
+              {
+                "key": "isVr",
+                "title": "VR房源",
+                "color": "648EF9",
+                "textColor": "rgb(100,142,249)",
+                "bgColor": "rgba(100,142,249,0.15)"
+              },
+              {
+                "key": "five",
+                "title": "满五年",
+                "color": "F2A12F",
+                "textColor": "rgb(242,161,47)",
+                "bgColor": "rgba(242,161,47,0.15)"
+              },
+              {
+                "key": "new",
+                "title": "新上",
+                "color": "67CE67",
+                "textColor": "rgb(103,206,103)",
+                "bgColor": "rgba(103,206,103,0.15)"
+              },
+              {
+                "key": "elevator",
+                "title": "有电梯",
+                "color": "7BBDFF",
+                "textColor": "rgb(123,189,255)",
+                "bgColor": "rgba(123,189,255,0.15)"
+              }
+            ],
+            "marketBooth": {
+              "type": "bangdan",
+              "title": "滘口热门新上榜第2名",
+              "iconUrl": "https://img.ljcdn.com/beike/bangdan/1565234456984.png",
+              "textColor": "#222222",
+              "bgColor": "#FFFFFF"
+            },
+            "poiDistance": "",
+            "poiIcon": ""
+          },
+          {
+            "cardType": "CARD_TYPE_ERSHOUFANG_LIST",
+            "cityId": "440100",
+            "houseCode": "108402536153",
+            "delegateId": "108402536153",
+            "resblockId": 2110343238861226,
+            "title": "滘口地铁站旁！逸彩庭园C区！望花园三房！满五唯一！",
+            "desc": "3室1厅/96.58m²/西北/新世界逸彩庭园",
+            "bangdanTitle": "3室1厅/96.58m²/新世界逸彩庭园",
+            "recoDesc": "荔湾 滘口/低楼层 共23层/西北",
+            "totalPrice": "410万",
+            "unitPrice": "42,452元/平",
+            "jumpUrl": "https://m.lianjia.com/gz/ershoufang/108402536153.html?fb_expo_id=487651561158803478",
+            "listPictureUrl": "https://image1.ljcdn.com/110000-inspection/pc1_CspERmnn1_1.jpg.210x164.jpg",
+            "recommendReason": null,
+            "houseStatus": 1,
+            "isCtypeHouse": false,
+            "fbExpoId": "487651561158803478",
+            "statusSwitch": {
+              "isYeZhuTuijian": true,
+              "isHaofang": true,
+              "isYezhuPay": false,
+              "isVr": true,
+              "isKey": false,
+              "isNew": false
+            },
+            "brandTags": {
+              "title": "必看好房",
+              "picUrl": "https://img.ljcdn.com/beike/haofanglogo/1571901104492.png"
+            },
+            "hotTop": {
+              "dspAgentUcId": "",
+              "hotTopDigV": "",
+              "hotTop": 0
+            },
+            "isSellPrice": 2,
+            "priceListingGovCn": 0,
+            "unitPriceGov": 0,
+            "totalPriceInfo": {
+              "prefix": "",
+              "title": "410",
+              "suffix": "万"
+            },
+            "unitPriceInfo": {
+              "prefix": "",
+              "title": "42,452",
+              "suffix": "元/平"
+            },
+            "colorTags": [
+              {
+                "key": "isVr",
+                "title": "VR房源",
+                "color": "648EF9",
+                "textColor": "rgb(100,142,249)",
+                "bgColor": "rgba(100,142,249,0.15)"
+              },
+              {
+                "key": "two",
+                "title": "满两年",
+                "color": "F2A12F",
+                "textColor": "rgb(242,161,47)",
+                "bgColor": "rgba(242,161,47,0.15)"
+              },
+              {
+                "key": "elevator",
+                "title": "有电梯",
+                "color": "7BBDFF",
+                "textColor": "rgb(123,189,255)",
+                "bgColor": "rgba(123,189,255,0.15)"
+              }
+            ],
+            "marketBooth": [
+              
+            ],
+            "poiDistance": "",
+            "poiIcon": ""
+          },
+          {
+            "cardType": "CARD_TYPE_ERSHOUFANG_LIST",
+            "cityId": "440100",
+            "houseCode": "108402437417",
+            "delegateId": "108402437417",
+            "resblockId": 2110343238599425,
+            "title": "锦绣半岛东区 中层两房  可望江 可望花园",
+            "desc": "2室1厅/79.12m²/北/锦绣半岛东区",
+            "bangdanTitle": "2室1厅/79.12m²/锦绣半岛东区",
+            "recoDesc": "番禺 南浦/中楼层 共28层/北",
+            "totalPrice": "280万",
+            "unitPrice": "35,390元/平",
+            "jumpUrl": "https://m.lianjia.com/gz/ershoufang/108402437417.html?fb_expo_id=487651561158803479",
+            "listPictureUrl": "https://image1.ljcdn.com/110000-inspection/pc1_wqW4Fqpgr.jpg.210x164.jpg",
+            "recommendReason": null,
+            "houseStatus": 1,
+            "isCtypeHouse": false,
+            "fbExpoId": "487651561158803479",
+            "statusSwitch": {
+              "isYeZhuTuijian": false,
+              "isHaofang": true,
+              "isYezhuPay": false,
+              "isVr": true,
+              "isKey": true,
+              "isNew": false
+            },
+            "brandTags": {
+              "title": "必看好房",
+              "picUrl": "https://img.ljcdn.com/beike/haofanglogo/1571901104492.png"
+            },
+            "hotTop": {
+              "dspAgentUcId": "",
+              "hotTopDigV": "",
+              "hotTop": 0
+            },
+            "isSellPrice": 2,
+            "priceListingGovCn": 0,
+            "unitPriceGov": 0,
+            "totalPriceInfo": {
+              "prefix": "",
+              "title": "280",
+              "suffix": "万"
+            },
+            "unitPriceInfo": {
+              "prefix": "",
+              "title": "35,390",
+              "suffix": "元/平"
+            },
+            "colorTags": [
+              {
+                "key": "isVr",
+                "title": "VR房源",
+                "color": "648EF9",
+                "textColor": "rgb(100,142,249)",
+                "bgColor": "rgba(100,142,249,0.15)"
+              },
+              {
+                "key": "two",
+                "title": "满两年",
+                "color": "F2A12F",
+                "textColor": "rgb(242,161,47)",
+                "bgColor": "rgba(242,161,47,0.15)"
+              },
+              {
+                "key": "haskey",
+                "title": "随时看房",
+                "color": "33BE85",
+                "textColor": "rgb(51,190,133)",
+                "bgColor": "rgba(51,190,133,0.15)"
+              },
+              {
+                "key": "elevator",
+                "title": "有电梯",
+                "color": "7BBDFF",
+                "textColor": "rgb(123,189,255)",
+                "bgColor": "rgba(123,189,255,0.15)"
+              }
+            ],
+            "marketBooth": [
+              
+            ],
+            "poiDistance": "",
+            "poiIcon": ""
+          },
+          {
+            "cardType": "CARD_TYPE_ERSHOUFANG_LIST",
+            "cityId": "440100",
+            "houseCode": "108401943223",
+            "delegateId": "108401943223",
+            "resblockId": 2110343238861226,
+            "title": "笋盘！笋盘！笋盘！走过路过别错过！优质三房满五唯一",
+            "desc": "3室2厅/103.89m²/北/新世界逸彩庭园",
+            "bangdanTitle": "3室2厅/103.89m²/新世界逸彩庭园",
+            "recoDesc": "荔湾 滘口/高楼层 共18层/北",
+            "totalPrice": "375万",
+            "unitPrice": "36,096元/平",
+            "jumpUrl": "https://m.lianjia.com/gz/ershoufang/108401943223.html?fb_expo_id=487651561158803480",
+            "listPictureUrl": "https://image1.ljcdn.com/110000-inspection/pc1_4Z8UDYBth_1.jpg.210x164.jpg",
+            "recommendReason": null,
+            "houseStatus": 1,
+            "isCtypeHouse": false,
+            "fbExpoId": "487651561158803480",
+            "statusSwitch": {
+              "isYeZhuTuijian": true,
+              "isHaofang": false,
+              "isYezhuPay": true,
+              "isVr": true,
+              "isKey": true,
+              "isNew": false
+            },
+            "brandTags": {
+              "title": "好赞好房",
+              "picUrl": "https://img.ljcdn.com/beike/bikanhaofang/1581996690584.png"
+            },
+            "hotTop": {
+              "dspAgentUcId": "",
+              "hotTopDigV": "",
+              "hotTop": 0
+            },
+            "isSellPrice": 2,
+            "priceListingGovCn": 0,
+            "unitPriceGov": 0,
+            "totalPriceInfo": {
+              "prefix": "",
+              "title": "375",
+              "suffix": "万"
+            },
+            "unitPriceInfo": {
+              "prefix": "",
+              "title": "36,096",
+              "suffix": "元/平"
+            },
+            "colorTags": [
+              {
+                "key": "subwayHouse",
+                "title": "地铁",
+                "color": "59ABFD",
+                "textColor": "rgb(89,171,253)",
+                "bgColor": "rgba(89,171,253,0.15)"
+              },
+              {
+                "key": "isVr",
+                "title": "VR房源",
+                "color": "648EF9",
+                "textColor": "rgb(100,142,249)",
+                "bgColor": "rgba(100,142,249,0.15)"
+              },
+              {
+                "key": "two",
+                "title": "满两年",
+                "color": "F2A12F",
+                "textColor": "rgb(242,161,47)",
+                "bgColor": "rgba(242,161,47,0.15)"
+              },
+              {
+                "key": "haskey",
+                "title": "随时看房",
+                "color": "33BE85",
+                "textColor": "rgb(51,190,133)",
+                "bgColor": "rgba(51,190,133,0.15)"
+              }
+            ],
+            "marketBooth": [
+              
+            ],
+            "poiDistance": "",
+            "poiIcon": ""
+          },
+          {
+            "cardType": "CARD_TYPE_ERSHOUFANG_LIST",
+            "cityId": "440100",
+            "houseCode": "108402202642",
+            "delegateId": "108402202642",
+            "resblockId": 2110343238336587,
+            "title": "大两房，望小区园林绿化，满五唯一",
+            "desc": "2室2厅/87.94m²/西南/锦绣半岛西区",
+            "bangdanTitle": "2室2厅/87.94m²/锦绣半岛西区",
+            "recoDesc": "番禺 南浦/中楼层 共17层/西南",
+            "totalPrice": "288万",
+            "unitPrice": "32,750元/平",
+            "jumpUrl": "https://m.lianjia.com/gz/ershoufang/108402202642.html?fb_expo_id=487651561158803481",
+            "listPictureUrl": "https://image1.ljcdn.com/110000-inspection/d9ca0e8f-e42d-4dbf-9dfa-efae2b93be62_1000.jpg.210x164.jpg",
+            "recommendReason": null,
+            "houseStatus": 1,
+            "isCtypeHouse": false,
+            "fbExpoId": "487651561158803481",
+            "statusSwitch": {
+              "isYeZhuTuijian": false,
+              "isHaofang": true,
+              "isYezhuPay": false,
+              "isVr": true,
+              "isKey": true,
+              "isNew": false
+            },
+            "brandTags": {
+              "title": "必看好房",
+              "picUrl": "https://img.ljcdn.com/beike/haofanglogo/1571901104492.png"
+            },
+            "hotTop": {
+              "dspAgentUcId": "",
+              "hotTopDigV": "",
+              "hotTop": 0
+            },
+            "isSellPrice": 2,
+            "priceListingGovCn": 0,
+            "unitPriceGov": 0,
+            "totalPriceInfo": {
+              "prefix": "",
+              "title": "288",
+              "suffix": "万"
+            },
+            "unitPriceInfo": {
+              "prefix": "",
+              "title": "32,750",
+              "suffix": "元/平"
+            },
+            "colorTags": [
+              {
+                "key": "isVr",
+                "title": "VR房源",
+                "color": "648EF9",
+                "textColor": "rgb(100,142,249)",
+                "bgColor": "rgba(100,142,249,0.15)"
+              },
+              {
+                "key": "five",
+                "title": "满五年",
+                "color": "F2A12F",
+                "textColor": "rgb(242,161,47)",
+                "bgColor": "rgba(242,161,47,0.15)"
+              },
+              {
+                "key": "haskey",
+                "title": "随时看房",
+                "color": "33BE85",
+                "textColor": "rgb(51,190,133)",
+                "bgColor": "rgba(51,190,133,0.15)"
+              },
+              {
+                "key": "elevator",
+                "title": "有电梯",
+                "color": "7BBDFF",
+                "textColor": "rgb(123,189,255)",
+                "bgColor": "rgba(123,189,255,0.15)"
+              }
+            ],
+            "marketBooth": [
+              
+            ],
+            "poiDistance": "",
+            "poiIcon": ""
+          },
+          {
+            "cardType": "CARD_TYPE_ERSHOUFANG_LIST",
+            "cityId": "440100",
+            "houseCode": "108402461765",
+            "delegateId": "108402461765",
+            "resblockId": 2111103319031,
+            "title": "保养好 交通方便 格局方正 采光好",
+            "desc": "2室2厅/80.86m²/北/尚东尚筑",
+            "bangdanTitle": "2室2厅/80.86m²/尚东尚筑",
+            "recoDesc": "番禺 番禺客运站/中楼层 共17层/北",
+            "totalPrice": "300万",
+            "unitPrice": "37,102元/平",
+            "jumpUrl": "https://m.lianjia.com/gz/ershoufang/108402461765.html?fb_expo_id=487651561158803482",
+            "listPictureUrl": "https://image1.ljcdn.com/110000-inspection/pc1_ckMZk7IoJ_1.jpg.210x164.jpg",
+            "recommendReason": null,
+            "houseStatus": 1,
+            "isCtypeHouse": false,
+            "fbExpoId": "487651561158803482",
+            "statusSwitch": {
+              "isYeZhuTuijian": false,
+              "isHaofang": true,
+              "isYezhuPay": false,
+              "isVr": true,
+              "isKey": true,
+              "isNew": false
+            },
+            "brandTags": {
+              "title": "必看好房",
+              "picUrl": "https://img.ljcdn.com/beike/haofanglogo/1571901104492.png"
+            },
+            "hotTop": {
+              "dspAgentUcId": "",
+              "hotTopDigV": "",
+              "hotTop": 0
+            },
+            "isSellPrice": 2,
+            "priceListingGovCn": 0,
+            "unitPriceGov": 0,
+            "totalPriceInfo": {
+              "prefix": "",
+              "title": "300",
+              "suffix": "万"
+            },
+            "unitPriceInfo": {
+              "prefix": "",
+              "title": "37,102",
+              "suffix": "元/平"
+            },
+            "colorTags": [
+              {
+                "key": "isVr",
+                "title": "VR房源",
+                "color": "648EF9",
+                "textColor": "rgb(100,142,249)",
+                "bgColor": "rgba(100,142,249,0.15)"
+              },
+              {
+                "key": "two",
+                "title": "满两年",
+                "color": "F2A12F",
+                "textColor": "rgb(242,161,47)",
+                "bgColor": "rgba(242,161,47,0.15)"
+              },
+              {
+                "key": "haskey",
+                "title": "随时看房",
+                "color": "33BE85",
+                "textColor": "rgb(51,190,133)",
+                "bgColor": "rgba(51,190,133,0.15)"
+              },
+              {
+                "key": "elevator",
+                "title": "有电梯",
+                "color": "7BBDFF",
+                "textColor": "rgb(123,189,255)",
+                "bgColor": "rgba(123,189,255,0.15)"
+              }
+            ],
+            "marketBooth": [
+              
+            ],
+            "poiDistance": "",
+            "poiIcon": ""
+          },
+          {
+            "cardType": "CARD_TYPE_ERSHOUFANG_LIST",
+            "cityId": "440100",
+            "houseCode": "108402501035",
+            "delegateId": "108402501035",
+            "resblockId": 2111103316575,
+            "title": "贝丽花园中高层2房  方正实用通风采光好  业主诚*",
+            "desc": "2室2厅/80.1m²/北/贝丽花园",
+            "bangdanTitle": "2室2厅/80.1m²/贝丽花园",
+            "recoDesc": "白云 机场路/中楼层 共15层/北",
+            "totalPrice": "260万",
+            "unitPrice": "32,460元/平",
+            "jumpUrl": "https://m.lianjia.com/gz/ershoufang/108402501035.html?fb_expo_id=487651561158803483",
+            "listPictureUrl": "https://image1.ljcdn.com/110000-inspection/pc1_tRh01dRLe_1.jpg.210x164.jpg",
+            "recommendReason": null,
+            "houseStatus": 1,
+            "isCtypeHouse": false,
+            "fbExpoId": "487651561158803483",
+            "statusSwitch": {
+              "isYeZhuTuijian": false,
+              "isHaofang": true,
+              "isYezhuPay": false,
+              "isVr": true,
+              "isKey": false,
+              "isNew": false
+            },
+            "brandTags": {
+              "title": "必看好房",
+              "picUrl": "https://img.ljcdn.com/beike/haofanglogo/1571901104492.png"
+            },
+            "hotTop": {
+              "dspAgentUcId": "",
+              "hotTopDigV": "",
+              "hotTop": 0
+            },
+            "isSellPrice": 2,
+            "priceListingGovCn": 0,
+            "unitPriceGov": 0,
+            "totalPriceInfo": {
+              "prefix": "",
+              "title": "260",
+              "suffix": "万"
+            },
+            "unitPriceInfo": {
+              "prefix": "",
+              "title": "32,460",
+              "suffix": "元/平"
+            },
+            "colorTags": [
+              {
+                "key": "isVr",
+                "title": "VR房源",
+                "color": "648EF9",
+                "textColor": "rgb(100,142,249)",
+                "bgColor": "rgba(100,142,249,0.15)"
+              },
+              {
+                "key": "five",
+                "title": "满五年",
+                "color": "F2A12F",
+                "textColor": "rgb(242,161,47)",
+                "bgColor": "rgba(242,161,47,0.15)"
+              },
+              {
+                "key": "elevator",
+                "title": "有电梯",
+                "color": "7BBDFF",
+                "textColor": "rgb(123,189,255)",
+                "bgColor": "rgba(123,189,255,0.15)"
+              }
+            ],
+            "marketBooth": [
+              
+            ],
+            "poiDistance": "",
+            "poiIcon": ""
+          },
+          {
+            "cardType": "CARD_TYPE_ERSHOUFANG_LIST",
+            "cityId": "440100",
+            "houseCode": "108400681058",
+            "delegateId": "108400681058",
+            "resblockId": 2111103318385,
+            "title": "纵横缤城小区       两房一厅    精装修   采光通风好",
+            "desc": "2室2厅/79.87m²/南 北/纵横缤城",
+            "bangdanTitle": "2室2厅/79.87m²/纵横缤城",
+            "recoDesc": "白云 新市/低楼层 共23层/南 北",
+            "totalPrice": "254万",
+            "unitPrice": "31,802元/平",
+            "jumpUrl": "https://m.lianjia.com/gz/ershoufang/108400681058.html?fb_expo_id=487651561158803484",
+            "listPictureUrl": "https://image1.ljcdn.com/440100-inspection/pc1_WYZ5sRULl_1.jpg.210x164.jpg",
+            "recommendReason": null,
+            "houseStatus": 1,
+            "isCtypeHouse": false,
+            "fbExpoId": "487651561158803484",
+            "statusSwitch": {
+              "isYeZhuTuijian": false,
+              "isHaofang": true,
+              "isYezhuPay": false,
+              "isVr": true,
+              "isKey": false,
+              "isNew": false
+            },
+            "brandTags": {
+              "title": "必看好房",
+              "picUrl": "https://img.ljcdn.com/beike/haofanglogo/1571901104492.png"
+            },
+            "hotTop": {
+              "dspAgentUcId": "",
+              "hotTopDigV": "",
+              "hotTop": 0
+            },
+            "isSellPrice": 2,
+            "priceListingGovCn": 0,
+            "unitPriceGov": 0,
+            "totalPriceInfo": {
+              "prefix": "",
+              "title": "254",
+              "suffix": "万"
+            },
+            "unitPriceInfo": {
+              "prefix": "",
+              "title": "31,802",
+              "suffix": "元/平"
+            },
+            "colorTags": [
+              {
+                "key": "isVr",
+                "title": "VR房源",
+                "color": "648EF9",
+                "textColor": "rgb(100,142,249)",
+                "bgColor": "rgba(100,142,249,0.15)"
+              },
+              {
+                "key": "five",
+                "title": "满五年",
+                "color": "F2A12F",
+                "textColor": "rgb(242,161,47)",
+                "bgColor": "rgba(242,161,47,0.15)"
+              },
+              {
+                "key": "elevator",
+                "title": "有电梯",
+                "color": "7BBDFF",
+                "textColor": "rgb(123,189,255)",
+                "bgColor": "rgba(123,189,255,0.15)"
+              }
+            ],
+            "marketBooth": [
+              
+            ],
+            "poiDistance": "",
+            "poiIcon": ""
+          },
+          {
+            "cardType": "CARD_TYPE_ERSHOUFANG_LIST",
+            "cityId": "440100",
+            "houseCode": "108402198380",
+            "delegateId": "108402198380",
+            "resblockId": 2111611560489457,
+            "title": "业主要出国发展，诚心卖，双地铁，楼龄新，证满4年",
+            "desc": "2室1厅/80.23m²/南/宝夏花园",
+            "bangdanTitle": "2室1厅/80.23m²/宝夏花园",
+            "recoDesc": "黄埔 夏园/中楼层 共12层/南",
+            "totalPrice": "263万",
+            "unitPrice": "32,781元/平",
+            "jumpUrl": "https://m.lianjia.com/gz/ershoufang/108402198380.html?fb_expo_id=487651561158803485",
+            "listPictureUrl": "https://image1.ljcdn.com/110000-inspection/pc1_Kn9Jx7q4x_1.jpg.210x164.jpg",
+            "recommendReason": null,
+            "houseStatus": 1,
+            "isCtypeHouse": false,
+            "fbExpoId": "487651561158803485",
+            "statusSwitch": {
+              "isYeZhuTuijian": false,
+              "isHaofang": true,
+              "isYezhuPay": false,
+              "isVr": true,
+              "isKey": false,
+              "isNew": false
+            },
+            "brandTags": {
+              "title": "必看好房",
+              "picUrl": "https://img.ljcdn.com/beike/haofanglogo/1571901104492.png"
+            },
+            "hotTop": {
+              "dspAgentUcId": "",
+              "hotTopDigV": "",
+              "hotTop": 0
+            },
+            "isSellPrice": 2,
+            "priceListingGovCn": 0,
+            "unitPriceGov": 0,
+            "totalPriceInfo": {
+              "prefix": "",
+              "title": "263",
+              "suffix": "万"
+            },
+            "unitPriceInfo": {
+              "prefix": "",
+              "title": "32,781",
+              "suffix": "元/平"
+            },
+            "colorTags": [
+              {
+                "key": "subwayHouse",
+                "title": "地铁",
+                "color": "59ABFD",
+                "textColor": "rgb(89,171,253)",
+                "bgColor": "rgba(89,171,253,0.15)"
+              },
+              {
+                "key": "isVr",
+                "title": "VR房源",
+                "color": "648EF9",
+                "textColor": "rgb(100,142,249)",
+                "bgColor": "rgba(100,142,249,0.15)"
+              },
+              {
+                "key": "two",
+                "title": "满两年",
+                "color": "F2A12F",
+                "textColor": "rgb(242,161,47)",
+                "bgColor": "rgba(242,161,47,0.15)"
+              },
+              {
+                "key": "elevator",
+                "title": "有电梯",
+                "color": "7BBDFF",
+                "textColor": "rgb(123,189,255)",
+                "bgColor": "rgba(123,189,255,0.15)"
+              }
+            ],
+            "marketBooth": {
+              "type": "bangdan",
+              "title": "夏园热搜房源榜第8名",
+              "iconUrl": "https://img.ljcdn.com/beike/bangdan/1565234456984.png",
+              "textColor": "#222222",
+              "bgColor": "#FFFFFF"
+            },
+            "poiDistance": "",
+            "poiIcon": ""
+          }
+        ],
+        "selected": {
+          "region": null,
+          "price": null,
+          "room": null,
+          "more": null,
+          "order": null
+        },
+        "keyword": "",
+        "nearWenan": "",
+        "recommendParams": null,
+        "tdk": {
+          "title": "广州二手房房源_广州二手房出售|买卖|交易信息(广州链家)",
+          "description": "广州链家二手房频道,发布广州二手房真实在售房源信息,为您提供广州二手房房源出售、二手房买卖交易等信息,快速查询广州二手房房价、特色、带看情况等.链家,连接每个家的故事.",
+          "keywords": "广州二手房,广州二手房出售,广州二手房房源,广州二手房买卖,广州二手房交易"
+        },
+        "breadcrumbs": [
+          {
+            "title": "链家网广州站",
+            "url": "https://m.lianjia.com/gz/"
+          },
+          {
+            "title": "广州二手房",
+            "url": "https://m.lianjia.com/gz/ershoufang/"
+          }
+        ]
+      }
+    },
+    "errkeys": [
+      
+    ]
+  },
+  "msg": ""
+}

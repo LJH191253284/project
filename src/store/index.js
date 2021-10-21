@@ -3,10 +3,12 @@ import Vuex from 'vuex'
 
 Vue.use(Vuex)
 
-export default new Vuex.Store({
+const store = new Vuex.Store({ //eslint-disable-line no-unused-vars
   state: {
+    
   },
   mutations: {
+   
   },
   actions: {
   },
